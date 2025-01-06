@@ -1,62 +1,121 @@
-# Getting Started in ML in 2025
-## Part 1: Prerequisite - Foundations
-- Maths
-    - Calculus Basics
-        - Derivative rules
-        - Logarithms
-        - Graphing
-    - Linear Algebra
-        - Addition
-        - Rank and Rules
-        - Multiplication
-    - Probability and Statistics
-        - Stats test
-        - Conditional Probability
-        - Normal distribution
+# Curriculum Outline: Learning Machine Learning in 2025
+## I. Introduction to Machine Learning
+1.	What is Machine Learning?
+- Definition and Key Concepts
+- Difference between AI, ML, and Deep Learning
+- Types of Machine Learning
+2.	Programming and OOP in Python
+- Python basics
+- Common Libraries used in ML
+- Software Engineering best practices
+- Git and Github
+3.	Setting Up the Environment
+- Tools and Frameworks (e.g., Python, Jupyter Notebooks)
+- Working with Environments: Docker Images and Virtual Environments
+- Cloud Platforms: Google Cloud AI, AWS SageMaker, Azure ML Studio
+## II. Mathematical and Statistical Foundations
+1.	Linear Algebra for ML
+- Vector spaces and matrix operations
+- Eigenvalues and eigenvectors
+- Matrix decompositions (SVD, PCA)
+- Tensor operations and manipulations
+2.	Probability and Statistics
+- Probability theory and distributions
+- Statistical hypothesis testing
+- Bayesian statistics
+- Information theory basics
+3.	Optimization Techniques
+- Gradient Descent and Variants
+- Regularization Methods
 
-- Programming Fundamentals
-    - Linux Basics
-    - OOP with Python
-    - Version control and DevOps
-    - Data Structures and Algorithms
-    - Common Libraries in Python used in ML. Below are some just to name a few.
-        - Numpy
-        - Scikit-learn
-        - Matplotlib
+## III. Data Preparation and Feature Engineering
+1.	Data Collection and Cleaning
+- Data Sources and APIs
+- Handling Missing Data and Outliers
+2.	Exploratory Data Analysis
+- Data Visualization Techniques (e.g., Matplotlib, Seaborn)
+- Statistical Summaries
+3.	Feature Engineering
+- Encoding Categorical Data
+- Feature Scaling and Normalization
+- Dimensionality Reduction (e.g., PCA, t-SNE)
+## IV. Classical Machine Learning Algorithms
+1.	Regression Techniques
+- Linear Regression
+- Polynomial Regression
+2.	Classification Algorithms
+- Logistic Regression
+- Decision Trees and Random Forests
+- Support Vector Machines (SVM)
+3.	Clustering
+- K-Means Clustering
+- Hierarchical Clustering
+4.	Ensemble Methods
+- Bagging and Boosting (e.g., XGBoost, AdaBoost)
+- Stacking
 
-## Part 2: ML Foundations
-- Understand Classical ML
-    - Supervised
-    - Unsupervised Algorithms
-    - Basics of Deep Learning
+## V. Deep Learning Fundamentals
+1.	Introduction to Deep Learning
+- Neural Networks Overview
+- The Perceptron and Multi-Layer Perceptron (MLP)
+2.	Training Deep Networks
+- Backpropagation
+- Activation Functions (ReLU, Sigmoid, Softmax)
+3.	Deep Learning Frameworks
+- Keras
+- TensorFlow 2.x Basics
+- PyTorch Basics
 
-- Classical Artificial Intelligence Algorithms
-    - Constraint Satisfaction
-    - Game Planning
-    - Logic
-    - Markov Decision Process
-    - Graphical models
+## VI. Advanced Deep Learning Architectures
+1.	Convolutional Neural Networks (CNNs)
+- Understanding Convolutions and Filters
+- Applications in Image Processing
+- State-of-the-Art Architectures (ResNet, EfficientNet)
+2.	Recurrent Neural Networks (RNNs)
+- LSTMs and GRUs
+- Applications in Time Series and NLP
+3.	Transformers and Attention Mechanisms
+- Self-Attention Mechanism
+- BERT, GPT Models, and Language Models
+4.	Generative Models
+- GANs (Generative Adversarial Networks)
+- VAEs (Variational Autoencoders)
+- Applications in Synthetic Data and Art
 
-## Part 3: Deep Learning
-Goals: Using PyTorch to build and understand the common architectures of Deep learning.
-    - CNN
-    - RNN
-    - LSTM
-    - RBM (Restricted Boltzman Machines)
-    - SOM (Self Oranizing Maps)
-    - GANs (Generative Adversarial Networks)
-    - Transformers (GPT)
+##  VII. Machine Learning in Production (ML Ops)
+1.	Model Deployment
+- Deploying ML Models on Cloud Platforms
+- Containerization with Docker and Kubernetes
+2.	Monitoring and Maintenance
+- Drift Detection
+- Model Retraining
+3.	CI/CD for Machine Learning
+- Automated Pipelines for ML Ops
+- Troubleshooting Pipelines
 
-## Part 4: Capstone
-Build one or two projects from each part of the outline. Place them on your github.
-- Statics Analysis project.
-- Two classical ML projects
-- CNN & Transformer Models
+## VIII. Capstone Projects
+1.	Project Ideas
+- Building an Image Classifier
+- Developing a Chatbot using Transformers
+- Creating a Recommendation System
+2.	Presentation and Feedback
+- Peer Reviews
+- Real-World Problem Solving
 
-## Bonus Part
-- Natural Language Processing Techniques
-- Time Series
-- Graph Models
-- Prompt Engineering
-- Reinforcement Learning
+## IX. Other Advance Topics in ML
+1. Natural Language Processing
+- Large Language Models (LLMs)
+- Prompt engineering
+- Fine-tuning strategies
+- RAG (Retrieval-Augmented Generation)
+2. Computer Vision
+- Object detection and segmentation
+- Generative models (GANs, Diffusion)
+- 3D vision and NeRF
+- Video understanding
+3. Reinforcement Learning
+- Multi-armed bandits
+- Q-learning and SARSA
+- Policy gradient methods
+- Deep reinforcement learning
 
