@@ -1,11 +1,12 @@
 # Curriculum Outline: Learning Machine Learning in 2025
+
 ## I. Introduction to Machine Learning
 1.	What is Machine Learning?
 - Definition and Key Concepts
 - Difference between AI, ML, and Deep Learning
 - Types of Machine Learning
 2.	Programming and OOP in Python
-- Python basics
+- Python basics syntex and data structures
 - Common Libraries used in ML
 - Software Engineering best practices
 - Git and Github
