@@ -35,7 +35,7 @@
 - Handling Missing Data and Outliers
 2.	Exploratory Data Analysis
 - Data Visualization Techniques (e.g., Matplotlib, Seaborn)
-- Statistical Summaries
+- Statistical Summaries 
 3.	Feature Engineering
 - Encoding Categorical Data
 - Feature Scaling and Normalization
@@ -68,7 +68,7 @@
 - PyTorch Basics
 
 ## VI. Advanced Deep Learning Architectures
-1.	Convolutional Neural Networks (CNNs)
+1. Convolutional Neural Networks (CNNs)
 - Understanding Convolutions and Filters
 - Applications in Image Processing
 - State-of-the-Art Architectures (ResNet, EfficientNet)
